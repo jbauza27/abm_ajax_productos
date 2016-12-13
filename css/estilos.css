@@ -1,0 +1,38 @@
+* {
+  font-family: ubuntu, sans-serif;
+  font-size: 16px;  
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 24px;  
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.ancho_75 {
+  width: 75%;
+  display: inline;
+  border-color: #9f9b9b;
+}
+
+.ancho_50 {
+  width: 50%;
+  display: inline;
+  border-color: #9f9b9b;
+}
+
+.ancho_25 {
+  width: 25%;
+  display: inline;
+  border-color: #9f9b9b;
+}
+
+.ancho_15 {
+  width: 15%;
+  display: inline;
+  border-color: #9f9b9b;
+}
